@@ -1,0 +1,5 @@
+pandas
+sqlite3  # comes built-in with Python, no need to install
+dash
+dash-bootstrap-components
+plotly
