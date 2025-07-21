@@ -103,4 +103,6 @@ retail-data-engineering/
 - Deploy dashboard using Streamlit Cloud or Render
 - Schedule the pipeline with Airflow (advanced)
 
+## 📧 Contact
+For any queries or contributions, contact: paingzinhtun.deai@gmail.com
 ---
